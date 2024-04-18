@@ -14,19 +14,19 @@ Esses são requisitos obrigatórios e devem ser cumpridos a fim de possibilitar 
 
 O candidato deve:
 
-- Criar a página completa
+- Criar a página completa de realização de consulta 
 
 ![](layout_1.jpeg)
 
-- Permitir que o usuário insira as queixas principais do paciente ao clicar na tecla "Enter"
+- Permitir que o usuário(médico) insira as queixas principais do paciente ao clicar na tecla "Enter"
 
 ![](layout_2.jpeg)
 
-- Criar a aba de análise clínica
+- Criar a aba de análise clínica, permitindo que o usuário (médico) registre a sua análise do paciente e dignostico.
 
 ![](layout_3.jpeg)
 
-- Assim como a página de sucesso ao clicar em "Encerrar consulta"
+- Criar página de sucesso ao clicar em "Encerrar consulta"
 
 ![](layout_4.jpeg)
 
